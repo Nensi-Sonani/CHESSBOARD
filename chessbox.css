@@ -1,0 +1,19 @@
+.box-1{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.box-2{
+    background-color: aliceblue;
+    box-shadow: 2px -1px 18px 5px black;
+}
+.box-3{
+    background-color: black;
+    box-shadow: 2px -1px 18px 5px black;
+}
+.op{
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+}
